@@ -2,7 +2,19 @@
   margin: 0;
   padding: 0;
 }
-.container{
-    background-color: red;
-    max-width: 80vw;
+.container {
+  background-color: red;
+  max-width: 80vw;
+}
+ul li {
+  list-style: none;
+  margin: 0px 12px;
+}
+nav {
+  height: 80px;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  color: black;
 }
