@@ -1,9 +1,13 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: var(--Poppins);
 }
 .container {
   max-width: 80vw;
+}
+.heading {
+  color: var(--blue);
 }
 ul li {
   list-style: none;
@@ -17,16 +21,26 @@ a {
   text-decoration: none;
   color: black;
 }
-.topleft{
-  border: 2px slod black;
-  width:50%;
-  margin: 0.5rem
-} 
-.topright{
-  border: 2px slod black;
-  width:50%;
+.topleft {
+  width: 50%;
   margin: 0.5rem;
 }
-.sec1{
+.topright {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin: 0.5rem;
+}
+.topright img {
+width: 20vw;
+}
+.sec1 {
   height: 30vh;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.sec2 .image img {
+  width: 40vw;
+  height: 250px;
 }
