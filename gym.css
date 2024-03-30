@@ -3,7 +3,6 @@
   padding: 0;
 }
 .container {
-  background-color: red;
   max-width: 80vw;
 }
 ul li {
@@ -17,4 +16,17 @@ nav {
 a {
   text-decoration: none;
   color: black;
+}
+.topleft{
+  border: 2px slod black;
+  width:50%;
+  margin: 0.5rem
+} 
+.topright{
+  border: 2px slod black;
+  width:50%;
+  margin: 0.5rem;
+}
+.sec1{
+  height: 30vh;
 }
