@@ -44,3 +44,11 @@ width: 20vw;
   width: 40vw;
   height: 250px;
 }
+.box{
+  width: 24vw;
+  height: 50vh;
+  border-radius: 10px;
+  border: 4px solid #a5a1a1;
+  margin-left: 5px;
+  margin-right: 5px;
+}
