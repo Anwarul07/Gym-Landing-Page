@@ -65,3 +65,9 @@ hr {
   margin: auto;
   margin-right: 4vw;
 }
+
+footer{
+  background-color: var(--whitesmoke);
+  padding: 60PX 0;
+
+}
